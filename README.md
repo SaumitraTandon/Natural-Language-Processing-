@@ -60,10 +60,6 @@ pip install numpy matplotlib pandas
 
 The model's performance is evaluated using accuracy, and the results are visualized to show how well the model distinguishes between positive and negative reviews.
 
-![Example Result Plot](path_to_your_image.png)
-
-*Replace the placeholder with an actual image from your results.*
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please feel free to submit a pull request. For significant changes, please open an issue first to discuss what you would like to change.
